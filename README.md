@@ -1,4 +1,4 @@
-# todo-forgerock
+# Vue todo
 
 ## Project setup
 ```
